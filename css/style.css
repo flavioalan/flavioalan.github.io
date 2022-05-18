@@ -155,7 +155,7 @@ h1.nome::after {
     border-radius: 50%;
 }
 
-p.paragrafo + p.paragrafo {text-align: justify;}
+p.paragrafo {text-align: justify;}
 
 
 /*Contato*/
