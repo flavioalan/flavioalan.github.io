@@ -147,7 +147,7 @@ h1.nome::after {
     width: 400px;
     height: 400px;
     margin: 0 auto;
-    border-radius: 70%;
+    border-radius: 50%;
 }
 
 .foto img {
