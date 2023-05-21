@@ -13,7 +13,7 @@ body, html {
     font-size: 18px;
 }
 
-img {max-width: 100%;}
+img {max-width: 100%; max-heigh: 70%;}
 
 h1 {
     font-weight: bold;
