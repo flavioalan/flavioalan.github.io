@@ -152,7 +152,7 @@ h1.nome::after {
 
 .foto img {
     margin: 0 auto;
-    border-radius: 70%;
+    border-radius: 50%;
 }
 
 p.paragrafo {text-align: justify;}
