@@ -144,15 +144,15 @@ h1.nome::after {
 }
 
 .foto {
-    width: 200px;
-    height: 200px;
+    width: 400px;
+    height: 400px;
     margin: 0 auto;
     border-radius: 50%;
 }
 
 .foto img {
     margin: 0 auto;
-    border-radius: 50%;
+    border-radius: 70%;
 }
 
 p.paragrafo {text-align: justify;}
